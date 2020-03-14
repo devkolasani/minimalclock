@@ -1,0 +1,49 @@
+.component {
+  height: 100%;
+  width: 100%;
+  position: relative;
+
+  .circles{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+    display: grid;
+    place-items: center;
+  }
+
+  .circle{
+    r: 35%;
+    cx: 50%;
+    cy: 50%;
+    transform: rotate(-90deg);
+    transform-origin: 50% 50%;
+    fill: transparent;
+    stroke: url(#clock-color-gradient);
+    stroke-dasharray: 2 * 3.1415927 * 35%;
+    stroke-dashoffset: 2 * 3.1415927 * 35% * 1;
+    stroke-linecap: round;
+    stroke-width: 15%;
+    transition: all 1s ease-out;
+  }
+
+  .background{
+    r: 35%;
+    cx: 50%;
+    cy: 50%;
+    fill: transparent;
+    stroke: rgba(white, 0.1);
+    stroke-width: 15%;
+  }
+
+  .time {
+    color: white;
+    width: 100%;
+    height: 100%;
+    display: grid;
+    font-family: Montserrat, sans-serif;
+    font-size: 5vh;
+    position: absolute;
+    place-items: center;
+  }
+}

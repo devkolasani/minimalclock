@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    background: black;
+    display: grid;
+    place-items: center;
+}
+
+.App {
+    width: 45vh;
+    height: 45vh;
+}
