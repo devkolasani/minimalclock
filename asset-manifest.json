@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/minimalclock/static/css/main.1e4f0468.chunk.css",
+    "main.js": "/minimalclock/static/js/main.c6732b29.chunk.js",
+    "main.js.map": "/minimalclock/static/js/main.c6732b29.chunk.js.map",
+    "runtime-main.js": "/minimalclock/static/js/runtime-main.2fbaca8f.js",
+    "runtime-main.js.map": "/minimalclock/static/js/runtime-main.2fbaca8f.js.map",
+    "static/js/2.ed10e2cd.chunk.js": "/minimalclock/static/js/2.ed10e2cd.chunk.js",
+    "static/js/2.ed10e2cd.chunk.js.map": "/minimalclock/static/js/2.ed10e2cd.chunk.js.map",
+    "index.html": "/minimalclock/index.html",
+    "precache-manifest.ac67016245826fe79d401cca61a4c64f.js": "/minimalclock/precache-manifest.ac67016245826fe79d401cca61a4c64f.js",
+    "service-worker.js": "/minimalclock/service-worker.js",
+    "static/css/main.1e4f0468.chunk.css.map": "/minimalclock/static/css/main.1e4f0468.chunk.css.map",
+    "static/js/2.ed10e2cd.chunk.js.LICENSE.txt": "/minimalclock/static/js/2.ed10e2cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fbaca8f.js",
+    "static/js/2.ed10e2cd.chunk.js",
+    "static/css/main.1e4f0468.chunk.css",
+    "static/js/main.c6732b29.chunk.js"
+  ]
+}
