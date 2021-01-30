@@ -2,4 +2,4 @@
 
 ## Minimal clock is a React clock component.
 
-### View demo [here](https://devkolasani.github.io/minimalclock/).
+### Demo [here](https://devkolasani.github.io/minimalclock/).
